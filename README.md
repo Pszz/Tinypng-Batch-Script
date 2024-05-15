@@ -1,4 +1,4 @@
-# TinyPNG batch script
+# TinyPNG Batch Script
 
 Image batch compression script written using TinyPNG API.
 
@@ -31,8 +31,8 @@ Image batch compression script written using TinyPNG API.
 ## Example preview
 
 - Before image(868 KB)
-![Before image](./entry/example.webp)
+![./entry/example.webp](./entry/example.webp)
 
 - After image(<font color=#008000>90 KB, Optimization rate 964%</font>)
-![After image](./entry/example.webp)
+![./entry/example.webp](./entry/example.webp)
 
